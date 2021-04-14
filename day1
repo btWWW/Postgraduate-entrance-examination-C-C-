@@ -1,0 +1,12 @@
+//包含一个头文件stdio.h
+//std-标准
+#include <stdio.h>
+
+int main()//主函数-程序的入口-main函数-有且只有一个
+{  
+    /* 我的第一个 C 程序 */
+    printf("Hello, World! \n");
+
+    return 0;
+}
+//int 是整数的意思
